@@ -20,4 +20,4 @@ npm create tail-ease
 Because setting up these tools manually takes forever! This automates everything in one command.
 
 ## 📜 License
-MIT © [Amulya Ratna](https://github.com/daddyAmulya)
+MIT © [Amulya Ratna](https://github.com/helloAmulya)
