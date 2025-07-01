@@ -1,5 +1,4 @@
-
-// #!/usr/bin / env node
+#!/usr/bin/env node
 const { exec, execSync } = require('child_process');
 const { promises: fs } = require('fs');
 const path = require('path');
