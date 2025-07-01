@@ -1,0 +1,27 @@
+{
+  "name": "tail-ease",
+  "version": "1.0.0",
+  "description": "Zero-config Vite + React + Tailwind CSS v4 project scaffolder",
+  "main": "TailEase.js",
+  "bin": {
+    "tail-ease": "TailEase.js",
+    "create-tail-ease": "TailEase.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "scaffold"
+  ],
+  "author": "Amulya Ratna <ratna.amulya98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ora": "^7.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
