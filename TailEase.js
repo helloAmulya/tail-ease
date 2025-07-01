@@ -19,6 +19,7 @@ const COLORS = {
   CYAN: "\x1b[36m"
 };
 
+
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
