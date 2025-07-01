@@ -1,6 +1,6 @@
 {
   "name": "tail-ease",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-config Vite + React + Tailwind CSS v4 project scaffolder",
   "main": "TailEase.js",
   "bin": {
@@ -25,11 +25,11 @@
     "node": ">=14.0.0"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/helloAmulya/tail-ease.git"
-},
-"bugs": {
-  "url": "https://github.com/helloAmulya/tail-ease/issues"
-},
-"homepage": "https://github.com/helloAmulya/tail-ease#readme"
+    "type": "git",
+    "url": "git+https://github.com/helloAmulya/tail-ease.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helloAmulya/tail-ease/issues"
+  },
+  "homepage": "https://github.com/helloAmulya/tail-ease#readme"
 }
