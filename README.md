@@ -7,9 +7,8 @@ Creates a ready-to-code project with:
 - Vite 6
 - React 18
 - Tailwind CSS v4
-- All configurations pre-set
 
-## 🚀 Installation
+## Setup Command
 ```bash
 npx tail-ease
 # or
